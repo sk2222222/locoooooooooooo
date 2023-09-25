@@ -1,0 +1,14 @@
+.rangeSliderrequirementsphosIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.property1default {
+  border-radius: var(--br-81xl);
+  width: 40px;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
